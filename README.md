@@ -38,7 +38,7 @@ Yup, guess what, you're no god 😂, if anything, the opposition has stronger go
 
 I suffered through a severe case of this syndrome recently, my activities are publicly visible in Functionland's Telegram community:
 
-https://t.me/functionlanders
+https://t.me/functionlanders/20558
 
 The negative effects that walls of text have on our minds are real. In short, given a big enough perceived magnitude (in the eyes of the beholder, my guess is 100+ people commenting daily is a sufficient trigger):
 
