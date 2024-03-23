@@ -36,11 +36,11 @@ See what happened there?
 
 Yup, guess what, you're no god 😂, if anything, the opposition has stronger god-like powers, simply because they outnumber you!
 
-I recently experienced a mild case of burnout in Functionland's Telegram community:
+I suffered through a severe case of this syndrome recently, my activities are publicly visible in Functionland's Telegram community:
 
 https://t.me/functionlanders
 
-The negative effects that walls of text have on our minds are real. In short, given a big enough perceived magnitude (in the eyes of the beholder, but my guess is 100+ people talking/commenting daily is a big enough trigger):
+The negative effects that walls of text have on our minds are real. In short, given a big enough perceived magnitude (in the eyes of the beholder, but my guess is 100+ people talking/commenting daily is a sufficient trigger):
 
 > It can lead to going bananaaaaaasss!! 🤪🍌
 
