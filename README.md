@@ -1,4 +1,4 @@
-# volume-button
+# volume-buttons
 
 ---
 title: ChatGPT killer app: replacing like button on social media!
@@ -18,7 +18,7 @@ We should put an end to this insanity. We know better now than the Web2 era.
 
 Here's how I see the problem:
 
-As the person responsible for managing a communication channel, you try to make everyone happy. You rely on facts and data points to prove your views. But the people disagree! Since text can obscure the emotions, when reading comments, sometimes you get the impression that: Hmmm, they think I'm shit at what I do. On many occasions, the comments are justified! Your brain then tricks you into thinking:
+As the person responsible for managing a communication channel, you try to make everyone happy. You rely on facts and data points to prove your views. But people disagree, it's in our nature! Since text can obscure emotions, when reading comments, sometimes you get the impression that: Hmmm, they think I'm shit at what I do. On many occasions, the comments are justified! Your brain then tricks you into thinking:
 
 > I "am" shit 💩😓
 
@@ -40,11 +40,11 @@ I suffered through a severe case of this syndrome recently, my activities are pu
 
 https://t.me/functionlanders
 
-The negative effects that walls of text have on our minds are real. In short, given a big enough perceived magnitude (in the eyes of the beholder, but my guess is 100+ people talking/commenting daily is a sufficient trigger):
+The negative effects that walls of text have on our minds are real. In short, given a big enough perceived magnitude (in the eyes of the beholder, my guess is 100+ people commenting daily is a sufficient trigger):
 
 > It can lead to going bananaaaaaasss!! 🤪🍌
 
-Documented the feeling while I was experiencing it in the following repo:
+Documented my feelings while I was experiencing it in the following repo:
 
 https://github.com/keyvan-m-sadeghi/about-time
 
