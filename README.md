@@ -52,7 +52,7 @@ The good news is, this vicious cycle can end today! There's a super simple remed
 
 # Utility of Like and Dislike
 
-The root cause of this problem is that, us humans, sometimes take matters too seriously. We read a comment, and our head changes the tone to whatever mood we currently have a bias towards. For example, while reading a wall of comments, you might get the feeling that you're being personally attacked. In this mood, when you scroll to the next comment, you keep your internal state: 
+The root cause of this problem is that, us humans, sometimes take matters too seriously. We read a comment, and our brain changes the tone to whatever mood we currently have a bias towards. For example, while reading a wall of comments, you might get the feeling that you're being personally attacked. In this mood, when you scroll to the next comment, you keep your internal state: 
 
 > I'm under attack!
 
@@ -62,9 +62,9 @@ A solution has naturally emerged in the Web2 era: a *"gauge"* on the *"importanc
 
 # Transformers
 
-Next iteration of the *"gauge"* solution is right in front of our eyes! When you're reading a comment, or posting one, you may really be clueless about the validity of the points in it. When in doubt, who do you call? Mythbusters! *"Google"ing* was the way to go until last year. But we now have a much stronger tool in our pockets: GPTs.
+Next iteration of the *"gauge"* solution is right in front of our eyes! When you're reading a comment, or posting one, you may really be clueless about the validity of the points made. When in doubt, who do you call? Mythbusters! *"Google"ing* was the way to go until last year. We now have a much stronger tool in our pockets: GPTs.
 
-The utility of transformer models (like ChatGPT and clones), is that they can summarize the consensus of human knowledge about any topic (unsuprisingly with a bias towards the training data). This is a game changing miracle! We now have access to everything everyone ever knew, tailor fitted to a question we're asking. The big question is:
+The utility of transformer models (like ChatGPT and clones), is that they can summarize the consensus of human knowledge about any topic (unsuprisingly with a bias towards the training data, and unfortunately censored by the Big Tech). This is a game changing miracle! We now have access to everything everyone ever knew, tailor fitted to a question we're asking. The big question is:
 
 > Are we asking the right questions?
 
@@ -73,3 +73,11 @@ Has the whole history of AI, and the fruit of labours of numerous researchers (i
 > If we want to be useful as a species, we need to generate knowledge outside of our training data, and loop less inside the already known.
 
 I think we can do better.
+
+# Volume Buttons
+
+The solution is simple. We need a gauge, and people are frugal with their time. So it should be glanceable and familiar. For the gauge, a scale of **0.00** to **1.00**. The following experiment shows that GPT4 is well capable of this computation:
+
+# To Elon and whomever else considering Volume Buttons
+
+Don't be an ass! Put your money where your mouth is. Open source everything, now. #Singularity is a lie you keep telling yourself, long live #Plurality! LFG!!!
