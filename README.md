@@ -50,5 +50,10 @@ https://github.com/keyvan-m-sadeghi/about-time
 
 The good news is, this vicious cycle can end today! There's a super simple remedy.
 
-# Transformers
+# Utility of Like and Dislike
 
+The root cause of this problem is that, us humans, sometimes take matters too seriously. We read a comment, and our head changes the tone to whatever mood we currently have a bias towards. For example, while reading a wall of comments, you might get the feeling that you're being personally attacked. In this mood, when you scroll to the next comment, you keep your internal state: 
+
+> I'm under attack!
+
+That's just your current bias. Next comment may be very passive and purely informative. But you take it litterally, and the meaning changes for you.
