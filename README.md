@@ -80,4 +80,4 @@ The solution is simple. We need a gauge, and people are frugal with their time. 
 
 # To Elon and whomever else considering Volume Buttons
 
-Don't be an ass! Put your money where your mouth is. Open source everything, now. #Singularity is a lie you keep telling yourself, long live #Plurality! LFG!!!
+Don't be an ass! Put your money where your mouth is. Open source everything, now. Centralized control is a lie you keep telling yourself, long live #Plurality! LFG!!!
