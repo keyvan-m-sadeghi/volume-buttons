@@ -57,3 +57,5 @@ The root cause of this problem is that, us humans, sometimes take matters too se
 > I'm under attack!
 
 That's just your current bias. Next comment may be very passive and purely informative. But you take it litterally, and the meaning changes for you.
+
+The solution that has naturally emerged in the Web2 era is a *"gauge"* on importance of a post. We *"vote"* with our likes and dislikes. However, this mechanism is very susceptible to propaganda and showmanship. A person with enough *"charisma"* can essentially manipulate feloow humans into believing anything!
