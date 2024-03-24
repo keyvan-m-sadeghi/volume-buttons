@@ -40,7 +40,7 @@ I suffered through a severe case of this syndrome recently, my activities are pu
 
 https://t.me/functionlanders/20558
 
-The negative effects that walls of text have on our minds are real. In short, given a big enough perceived magnitude (in the eyes of the beholder, my guess is 100+ people commenting daily is a sufficient trigger):
+The negative effects that walls of text have on our minds are real. In short, given a big enough perceived magnitude (in the eyes of the beholder, my guess is 10+ people commenting daily is a sufficient trigger):
 
 > It can lead to going bananaaaaaasss!! 🤪🍌
 
