@@ -70,6 +70,6 @@ The utility of transformer models (like ChatGPT and clones), is that they can su
 
 Has the whole history of AI, and the fruit of labours of numerous researchers (including the amazing brains in !Open AI), been for baby Altman frog to show off with Tweets?!
 
-> If we want to be useful as a species, we need to generate knowledge outside of our training data.
+> If we want to be useful as a species, we need to generate knowledge outside of our training data, and loop less inside the already known.
 
 I think we can do better.
