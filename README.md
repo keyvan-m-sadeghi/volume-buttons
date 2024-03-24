@@ -67,3 +67,7 @@ Next iteration of the *"gauge"* solution is right in front of our eyes! When you
 The utility of transformer models (like ChatGPT and clones), is that they can summarize the consensus of human knowledge about any topic (unsuprisingly with a bias towards the training data). This is a game changing miracle! We now have access to everything everyone ever knew, tailor fitted to a question we're asking. The big question is:
 
 > Are we asking the right questions?
+
+Has the whole history of AI, and the fruit of labours of numerous researchers (including the amazing brains in !Open AI), been for baby Altman frog to show off with Tweets?!
+
+I think we can do better.
