@@ -58,4 +58,7 @@ The root cause of this problem is that, us humans, sometimes take matters too se
 
 That's just your current bias. Next comment may be very passive and purely informative. But you take it litterally, and the meaning changes for you.
 
-The solution that has naturally emerged in the Web2 era is a *"gauge"* on importance of a post. We *"vote"* with our likes and dislikes. However, this mechanism is very susceptible to propaganda and showmanship. A person with enough *"charisma"* can essentially manipulate feloow humans into believing anything!
+The solution that has naturally emerged in the Web2 era is a *"gauge"* on the *importance* of a post. We *"vote"* with our likes and dislikes. However, this mechanism is very susceptible to propaganda and showmanship. A person with enough *"charisma"* can, in effect, *"manipulate"* fellow humans into believing anything!
+
+# Transformers
+
