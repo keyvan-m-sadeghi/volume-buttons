@@ -64,7 +64,7 @@ A solution has naturally emerged in the Web2 era: a *"gauge"* on the *"importanc
 
 Next iteration of the *"gauge"* solution is right in front of our eyes! When you're reading a comment, or posting one, you may really be clueless about the validity of the points made. When in doubt, who do you call? Mythbusters! *"Google"ing* was the way to go until last year. We now have a much stronger tool in our pockets: GPTs.
 
-The utility of transformer models (like ChatGPT and clones), is that they can summarize the consensus of human knowledge about any topic (unsuprisingly with a bias towards the training data, and unfortunately censored by the Big Tech). This is a game changing miracle! We now have access to everything everyone ever knew, tailor fitted to a question we're asking. The big question is:
+The utility of transformer models (like ChatGPT and clones), is that they can summarize the consensus of human knowledge about any topic (unsuprisingly with a bias towards the training data, and unfortunately censored by the Big Tech). This is a game changing miracle! We now have access to everything everyone ever knew, tailored to a question we're asking. The big question is:
 
 > Are we asking the right questions?
 
