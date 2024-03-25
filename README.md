@@ -1,7 +1,7 @@
 # volume-buttons
 
 ---
-title: ChatGPT killer app: replacing like button on social media!
+title: ChatGPT killer app: replacing Like on social media with Volume!
 published: false
 description: 
 tags: 
