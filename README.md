@@ -76,7 +76,7 @@ I think we can do better.
 
 # Volume Buttons
 
-The solution is simple. We need a gauge, and people are frugal with their time. So it should be glanceable and familiar. For the gauge, a scale of **0.00** to **1.00**. The following experiment shows that GPT4 is well capable of this computation:
+The solution is simple. We need a gauge, and people are frugal with their time. So it should be glanceable and familiar. A scale between **0.00** and **1.00**. The following experiment shows that GPT4 is well capable of this computation:
 
 # To Elon and whomever else considering Volume Buttons
 
