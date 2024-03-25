@@ -76,7 +76,11 @@ I think we can do better.
 
 # Volume Buttons
 
-The solution is simple. We need a gauge, and people are frugal with their time. So it should be glanceable and familiar. A scale between **0.00** and **1.00**. The following experiment shows that GPT4 is well capable of this computation:
+The solution is simple. We need a gauge, and people are frugal with their time. So it should be glanceable and familiar. A scale between **0.00** and **1.00**. The following experiment shows that GPT4 (well outdated) is capable of this computation:
+
+![Earth Is Flat](gpt4-1.jpg)
+![Earth Is Flat Scores](gpt4-2.jpg)
+
 
 # To Elon and whomever else considering Volume Buttons
 
