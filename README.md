@@ -84,4 +84,4 @@ The solution is simple. We need a gauge, and people are frugal with their time. 
 
 # To Elon and whomever else considering Volume Buttons
 
-Don't be a shithead! Put your money where your mouth is. Open source everything, now, including Twitter UI. Centralized control is a lie you keep telling yourself, long live #Plurality! LFG!!!
+Don't be a shithead! Put your money where your mouth is. Open source everything, now, including the UIs. Centralized control is a lie you keep telling yourself, long live #Plurality! LFG!!!
