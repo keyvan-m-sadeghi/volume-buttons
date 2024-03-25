@@ -44,7 +44,7 @@ The negative effects that walls of text have on our minds are real. In short, gi
 
 > It can lead to going bananaaaaaasss!! 🤪🍌
 
-Documented my feelings while I was experiencing it in the following repo:
+Documented my feelings while I was experiencing them in the following repo:
 
 https://github.com/keyvan-m-sadeghi/about-time
 
