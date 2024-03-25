@@ -68,7 +68,7 @@ The utility of transformer models (like ChatGPT and clones), is that they can su
 
 > Are we asking the right questions?
 
-Has the whole history of AI, and the fruit of labours of numerous researchers (including the amazing brains in !Open AI), been for baby Altman frog to show off with Tweets?!
+Has the whole history of AI, and the fruit of labours of numerous researchers (including the amazing brains at !Open AI), been for baby Altman frog to show off with Tweets?!
 
 > If we want to be useful as a species, we need to generate knowledge outside the boundaries of our common sense, and loop less inside the already known.
 
@@ -80,4 +80,4 @@ The solution is simple. We need a gauge, and people are frugal with their time. 
 
 # To Elon and whomever else considering Volume Buttons
 
-Don't be an ass! Put your money where your mouth is. Open source everything, now. Centralized control is a lie you keep telling yourself, long live #Plurality! LFG!!!
+Don't be a shithead! Put your money where your mouth is. Open source everything, now, including Twitter UI. Centralized control is a lie you keep telling yourself, long live #Plurality! LFG!!!
