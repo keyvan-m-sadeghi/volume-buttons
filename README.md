@@ -42,7 +42,7 @@ https://t.me/functionlanders/20558
 
 The negative effects that walls of text have on our minds are real. In short, given a big enough perceived magnitude (in the eyes of the beholder, my guess is 10+ people commenting daily is a sufficient trigger):
 
-> It can lead to going bananaaaaaasss!! 🤪🍌
+> If one can't deflect the energy, it can lead to going bananaaaaaasss!! 🤪🍌
 
 Documented my feelings while I was experiencing them in the following repo:
 
@@ -82,6 +82,6 @@ The solution is simple. We need a gauge, and people are frugal with their time. 
 ![Earth Is Flat Scores](gpt4-2.jpg)
 
 
-# To Elon and whomever else considering Volume Buttons
+# To Elon and anyone else who may consider implementing Volume Buttons
 
 Don't be a shithead! Put your money where your mouth is. Open source everything, now, including the UIs. Centralized control is a lie you keep telling yourself, long live #Plurality! LFG!!!
