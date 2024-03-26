@@ -83,6 +83,7 @@ The solution is simple. We need a gauge, and people are frugal with their time. 
 
 For the User Interface, my version is reusing the *"Volume"* concept, and augmenting it with human-in-the-loop:
 
+![Volume Buttons Reference Implementation](UI.png)
 
 # To Elon and anyone else who may consider implementing Volume Buttons
 
