@@ -85,6 +85,8 @@ For the User Interface, my version is reusing the *"Volume"* concept, augmented 
 
 ![Volume Buttons Reference Implementation](UI.png)
 
+People can still vote with + and -, but the starting point is the value that AI computed. I'm denoting the human vote with the red line in the above example.
+
 # To Elon and anyone else who may consider implementing Volume Buttons
 
 Don't be a shithead! Put your money where your mouth is. Open source everything, now, including the UIs. Centralized control is a lie you keep telling yourself, long live #Plurality! LFG!!!
