@@ -81,6 +81,8 @@ The solution is simple. We need a gauge, and people are frugal with their time. 
 ![Earth Is Flat](gpt4-1.jpg)
 ![Earth Is Flat Scores](gpt4-2.jpg)
 
+For the User Interface, my version is reusing the *"Volume"* concept, and augmenting it with human-in-the-loop:
+
 
 # To Elon and anyone else who may consider implementing Volume Buttons
 
