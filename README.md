@@ -85,7 +85,7 @@ For the User Interface, my version is reusing the *"Volume"* concept, augmented 
 
 ![Volume Buttons Reference Implementation](UI.png)
 
-People can still vote with + and -, but the starting point is the value that AI computed. I'm denoting the human vote with the red line in the above example.
+People can still vote with + and -, but the starting point is the value that AI computed. I'm denoting the computed value with blue, and human vote with the red line in the above example.
 
 This solution addresses the concerns I raised at the beginning of this article. The *"GenAI Gauge"* effectively directs us humans to generate content outside the boundaries of LLM's training data. We'll have an indicator on how novel our words are, as opposed to popular. Problem solved? Appreciate if you let me know in the comments 🤗
 
