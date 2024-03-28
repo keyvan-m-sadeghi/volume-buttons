@@ -12,7 +12,7 @@ tags:
 
 Hello again fellow DEVs 🤗
 
-It most likely hasn't skipped your attention that, for many years now, we've been haunted by the pursuit of likes, dislikes and the number of subscribers. These artificial constructs have become our overlords, in a way that's unprecedented in human history! The phenomenon has recently lead to [mass burnout](https://youtu.be/GQAvce3MA44) in the **influencer** community.
+It most likely hasn't skipped your attention that, for many years now, we've been haunted by the pursuit of likes, dislikes and the number of subscribers. These artificial constructs sway us in seemingly random directions , in a way that's unprecedented in human history! The phenomenon has recently lead to [mass burnout](https://youtu.be/GQAvce3MA44) in the **influencer** community.
 
 We should put an end to this insanity. We know better now than the Web2 era.
 
