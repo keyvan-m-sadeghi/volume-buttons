@@ -1,15 +1,5 @@
 # volume-buttons
 
----
-title: ChatGPT killer app: replacing Like on social media with Volume!
-published: false
-description: 
-tags: 
-# cover_image: https://direct_url_to_image.jpg
-# Use a ratio of 100:42 for best results.
-# published_at: 2024-03-03 17:01 +0000
----
-
 Hello again fellow DEVs 🤗
 
 It most likely hasn't skipped your attention that, for many years now, we've been haunted by the pursuit of likes, dislikes and the number of subscribers. These artificial constructs sway us in seemingly random directions, in a way that's unprecedented in human history! The phenomenon has recently lead to [mass burnout](https://youtu.be/GQAvce3MA44) in the **influencer** community.
